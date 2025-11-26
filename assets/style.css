@@ -1,0 +1,42 @@
+#inizio,
+body {
+  text-align: center;
+}
+
+#logo {
+  width: 15rem;
+}
+
+#sfondo-scritta {
+  color: #004444;
+  background-color: #fdfbf1;
+  padding-block: 1mm;
+  border-top: 2px solid #ffda7d;
+  margin-block: 1rem;
+}
+
+#main {
+  text-align: center;
+  margin-left: 29%;
+  margin-right: 29%;
+}
+#immagine {
+  width: 100%;
+}
+
+h1 {
+  margin-top: 5rem;
+}
+
+.testo-sinistra {
+  text-align: left;
+}
+
+.bordo-basso {
+  border-bottom: 2px solid #bdf2f0;
+}
+
+.bordo-sinistro {
+  border-left: 2px solid yellow;
+  margin-left: 4px;
+}
