@@ -16,12 +16,13 @@ body {
 }
 
 #main {
+  width: 800px;
   text-align: center;
-  margin-left: 29%;
-  margin-right: 29%;
+  margin-inline: auto;
 }
 #immagine {
   width: 100%;
+  border-radius: 10px;
 }
 
 h1 {
@@ -36,7 +37,11 @@ h1 {
   border-bottom: 2px solid #bdf2f0;
 }
 
-.bordo-sinistro {
+.bordo-sinistra {
   border-left: 2px solid yellow;
   margin-left: 4px;
+}
+
+ul li {
+  padding-block: 10px;
 }
